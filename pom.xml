@@ -30,7 +30,7 @@
     <jacoco.version>0.8.5</jacoco.version>
     <nohttp-checkstyle.version>0.0.4.RELEASE</nohttp-checkstyle.version>
     <spring-format.version>0.0.25</spring-format.version>
-    <spring-cloud.version>Hoxton.SR3</spring-cloud.version>
+    <spring-cloud.version>2020.0.0-RC1</spring-cloud.version>
   </properties>
 
   <dependencies>
